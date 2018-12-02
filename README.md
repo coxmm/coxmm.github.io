@@ -2,9 +2,9 @@
 
 This site is run by three foodies, who have explored what London's food scene has to offer. We are happy to share our top tips with you.
 
-### Markdown
+### Food
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Food is our favourite F-word
 
 ```markdown
 Syntax highlighted code block
